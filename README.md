@@ -22,23 +22,24 @@ Welcome to the **MERN Stack Notes** repository! This document contains fundament
    - REST API Development  
    - Middleware & Authentication  
 
-4. **Database (MongoDB & Mongoose)**  
+4. **Database (MongoDB & Mongoose)**
+   - Introduction to mySQL (Learning MySQL before diving into MongoDB is beneficial because it provides a strong foundation in database concepts and helps in understanding the differences between relational and non-relational databases effectively)
    - Introduction to MongoDB  
    - CRUD Operations with Mongoose  
    - Connecting MongoDB with Express.js  
 
-5. **Frontend (React.js)**  
+6. **Frontend (React.js)**  
    - Introduction to React.js  
    - React Components & Props  
    - React Hooks & State Management  
    - Routing in React  
 
-6. **Full-Stack Integration**  
+7. **Full-Stack Integration**  
    - Connecting React with Node.js  
    - API Calls using Axios & Fetch  
    - JWT Authentication in MERN  
 
-7. **Deployment**  
+8. **Deployment**  
    - Deploying Backend (Render/Heroku)  
    - Deploying Frontend (Vercel/Netlify)  
    - Connecting Frontend & Backend  
